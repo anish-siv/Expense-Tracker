@@ -13,7 +13,7 @@ This Java and PHP project facilitates expense management, offering a comprehensi
 
 1. Clone the repository to your local machine:
 
-    `git clone https://github.com/your_username/expense-tracker-project.git`
+    `git clone https://github.com/anish-siv/expense-tracker-project.git`
    
 3. Set up the project in your preferred development environment.
 
