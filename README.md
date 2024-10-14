@@ -34,6 +34,6 @@ This Java and PHP project facilitates expense management, offering a comprehensi
 - **Java MySQL Connector:** for database interaction.
 - **PHP:** for web interface development and server-side scripting.
 - **HTML/CSS/Bootstrap:** for web interface styling and layout.
-- **JavaScript:** for client-side interactivity, if applicable.
+- **JavaScript:** for client-side interactivity.
 
 
